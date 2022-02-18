@@ -1,0 +1,1 @@
+{"DEVICE_TYPE": "MUSE", "patientname": "EB_24_2", "DurationAll": 999, "TEILow": 0.6118920116629638, "TEIHigh": 0.6812027493170819, "TEIInterval": 5, "Lowtimeframe": 169, "Hightimeframe": 170, "LoggingLocation": "muse_logging.txt", "HighThresholdLocation": "HighThreshold.txt", "LowThresholdLocation": "LowThreshold.txt"}
